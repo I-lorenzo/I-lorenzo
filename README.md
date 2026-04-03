@@ -9,7 +9,7 @@
 
 <h2>Certificates</h2>
 
-- [CommPTIA A+](URL)
+- [CompTIA A+](URL)
 - [Google cybersecurity professional certificate](URL)
 - [HTML5 & CSS3 Web Design Fundamentals with JavaScript](URL)
 - [Javascript Essentials](URL)
@@ -30,7 +30,7 @@
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
