@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaac! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Isaac! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support Technician </a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -9,10 +9,12 @@
 
 <h2>Certificates</h2>
 
+- [CommPTIA A+](URL)
+- [Google cybersecurity professional certificate](URL)
 - [HTML5 & CSS3 Web Design Fundamentals with JavaScript](URL)
 - [Javascript Essentials](URL)
 - [Introduction to Python](URL)
-- [Google cybersecurity professional certificate](URL)
+
 
 
 
