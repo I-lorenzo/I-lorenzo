@@ -11,9 +11,7 @@
 
 - [CompTIA A+](URL)
 - [Google cybersecurity professional certificate](URL)
-- [HTML5 & CSS3 Web Design Fundamentals with JavaScript](URL)
-- [Javascript Essentials](URL)
-- [Introduction to Python](URL)
+
 
 
 
@@ -29,6 +27,7 @@
 <!--[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/-->
+
 [linkedin]: https://linkedin.com/in/
 
 
