@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/I-lorenzo/ActiveDirectoryLab)
-  - [Custom PC Build Project](https://github.com/I-lorenzo/LABURL)
+  - [Custom PC Build Project](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
   - [Arts Project](https://github.com/I-lorenzo/LABURL)
 
 
