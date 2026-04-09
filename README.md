@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/I-lorenzo/LABURL)
+  - [Active Directory Home Lab](https://github.com/I-lorenzo/ActiveDirectoryLab)
   - [Static Website Paintball](https://github.com/I-lorenzo/LABURL)
   - [Arts Project](https://github.com/I-lorenzo/LABURL)
 
