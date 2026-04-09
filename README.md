@@ -28,10 +28,9 @@
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/-->
 
-[linkedin]: https://linkedin.com/in/
-
 
 - 🔭 I’m currently working on an Active Directory lab
 - 🌱 I’m currently learning CCNA 
 
 
+[linkedin]: https://linkedin.com/in/
