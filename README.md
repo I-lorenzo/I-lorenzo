@@ -1,6 +1,6 @@
-<h1>Hi, I'm Isaac! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support Technician </a>
+<h1>Hi, I'm Isaac! <br/><a href="https://www.linkedin.com/in/I-lorenzo/">IT Support Technician </a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
   - [Static Website Tea Cosy](https://github.com/I-lorenzo/LABURL)
   - [Static Website Paintball](https://github.com/I-lorenzo/LABURL)
@@ -23,14 +23,15 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 [<img align="left" alt="Isaac Lorenzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+[linkedin]: https://linkedin.com/in/
 <!--[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/-->
-
+<br></br>
 
 - 🔭 I’m currently working on an Active Directory lab
-- 🌱 I’m currently learning CCNA 
+- 🌱 I’m currently learning CCNA
+  
 
 
-[linkedin]: https://linkedin.com/in/
+
