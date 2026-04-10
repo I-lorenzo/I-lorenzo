@@ -35,7 +35,7 @@
 [instagram]: https://www.instagram.com/-->
 <br></br>
 
-- 🔭 I’m currently working on an Active Directory lab
+- 🔭 I’m currently working on a networking lab
 - 🌱 I’m currently learning CCNA
   
 
