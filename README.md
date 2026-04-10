@@ -10,7 +10,7 @@
 <h2>Certificates</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/0dd55376-826c-42c8-a805-e08021f46cf8/public_url)
-- [Google cybersecurity professional certificate](URL)
+- [Google cybersecurity professional certificate](https://coursera.org/share/8a2b6d399f08e4ed7f0c21d6567346d9)
 
 
 
