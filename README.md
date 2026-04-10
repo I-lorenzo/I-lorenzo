@@ -35,8 +35,8 @@
 [instagram]: https://www.instagram.com/-->
 <br></br>
 
-- 🔭 I’m currently working on a networking lab
-- 🌱 I’m currently learning CCNA
+🔭 Currently completing TCM Security Practical Help Desk training  
+🌱 Working towards CCNA certification
   
 
 
