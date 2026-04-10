@@ -6,7 +6,7 @@
   - [Custom PC Build Project](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
  
 
-<h2>👨‍💻foundational Software Projects:</h2>
+<h2>👨‍💻Foundational Software Projects:</h2>
 
    - [HTML/CSS Website](https://github.com/I-lorenzo/Fotomatic-)
    - [Background Colour change](https://github.com/I-lorenzo/Colourchange-Test/tree/main)
