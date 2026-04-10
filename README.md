@@ -9,6 +9,7 @@
 <h2>👨‍💻Software Projects:</h2>
 
    - [HTML/CSS Website](https://github.com/I-lorenzo/Fotomatic-)
+   - [Mix messages JavaScript](https://github.com/I-lorenzo/Colourchange-Test/tree/main)
    - [Mix messages JavaScript](https://github.com/I-lorenzo/LABURL)
 
 <h2>Certificates</h2>
