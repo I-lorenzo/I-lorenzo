@@ -1,11 +1,15 @@
 <h1>Hi, I'm Isaac! <br/><a href="https://www.linkedin.com/in/I-lorenzo/">IT Support Technician </a>
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻New Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/I-lorenzo/ActiveDirectoryLab)
   - [Custom PC Build Project](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
-  - [Arts Project](https://github.com/I-lorenzo/LABURL)
+ 
 
+<h2>👨‍💻Software Projects:</h2>
+
+   - [HTML/CSS Website](https://github.com/I-lorenzo/Fotomatic-)
+   - [Mix messages JavaScript](https://github.com/I-lorenzo/LABURL)
 
 <h2>Certificates</h2>
 
