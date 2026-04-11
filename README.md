@@ -8,10 +8,11 @@
 
 <h2>👨‍💻Foundational Software Projects:</h2>
 
+   - [Number Guesser Game](https://github.com/I-lorenzo/Number-guesser-game)
    - [HTML/CSS Website](https://github.com/I-lorenzo/Fotomatic-)
    - [Background Colour change](https://github.com/I-lorenzo/Colourchange-Test/tree/main)
    - [Mix messages JavaScript](https://github.com/I-lorenzo/Mixed_Messages)
-   - [Number Guesser Game](https://github.com/I-lorenzo/Number-guesser-game)
+   
 
 <h2>Certificates</h2>
 
