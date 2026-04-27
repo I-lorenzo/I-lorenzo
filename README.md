@@ -4,6 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/I-lorenzo/ActiveDirectoryLab)
   - [Custom PC Build Project](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
+  - [AI Agent Setup locally (Work in progress)](https://github.com/I-lorenzo/AI-Agent)
+    
  
 
 <h2>👨‍💻Foundational Software Projects:</h2>
