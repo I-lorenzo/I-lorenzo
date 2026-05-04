@@ -3,8 +3,8 @@
 <h2>👨‍💻New Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/I-lorenzo/ActiveDirectoryLab)
-  - [Custom PC Build Project](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
-  - [AI Agent Setup locally (Work in progress)](https://github.com/I-lorenzo/AI-Agent)
+  - [Custom PC Build ](https://github.com/I-lorenzo/Custom-PC-Build-Project/blob/main/README.md)
+  - [AI Agent Setup - locally (Work in progress)](https://github.com/I-lorenzo/AI-Agent)
     
  
 
