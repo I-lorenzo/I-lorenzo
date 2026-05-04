@@ -38,8 +38,8 @@
 [instagram]: https://www.instagram.com/-->
 <br></br>
 
-🔭 Currently completing TCM Security Practical Help Desk training  
-🌱 Working towards CCNA certification
+🔭 Currently completing TCM Security Practical Help Desk Training  
+🌱 Working towards CCNA Certification
   
 
 
